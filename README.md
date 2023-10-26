@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Agustin Vincenti</h1>
 <h3 align="center">Welcome to my Github!</h3>
-<img align="right" alt="Coding" width="450" src="https://i.giphy.com/media/dB15acdZ12Z7JJ6lOC/giphy.webp">
+<img align="right" alt="Coding" height="350" src="https://i.giphy.com/media/dB15acdZ12Z7JJ6lOC/giphy.webp">
 
   
 I'm an Engineer with a passion for coding :computer:  
