@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Agustin Vincenti</h1>
 <h3 align="center">Welcome to my Github!</h3>
-<img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/dB15acdZ12Z7JJ6lOC/giphy.webp">
+<img align="right" alt="Coding" width="450" src="https://i.giphy.com/media/dB15acdZ12Z7JJ6lOC/giphy.webp">
 
   
 I'm an Engineer with a passion for coding :computer:  
@@ -11,9 +11,7 @@ I'm an Engineer with a passion for coding :computer:
 - 📄 Learn about my professional experience by visiting my LinkedIn profile.
 
 ## 🌐 Socials:
-<p align="left">
-<a href="https://linkedin.com/in/agustin-vincenti-65aa54162" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="agustin-vincenti-65aa54162" height="30" width="40" /></a>
-</p>
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/agustin-vincenti-65aa54162/)
 
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=c,py,js,git,bash,html,css,sass,gulp)](https://skillicons.dev)
