@@ -6,7 +6,7 @@
 I'm an Engineer with a passion for coding :computer:  
   
 - :books: Currently studying at **42 campus**
-- :arrow_double_up: Languages: **English, Spanish and Italian**
+- :large_blue_diamond: Languages **English, Spanish and Italian**
 - 📫 E-mail: **agustin.vincenti92@gmail.com**
 - 📄 Learn about my professional experience by visiting my LinkedIn profile.
 
