@@ -10,10 +10,11 @@ I'm an Engineer with a passion for coding :computer:
 - 📫 E-mail: **agustin.vincenti92@gmail.com**
 - 📄 Learn about my professional experience by visiting my LinkedIn profile.
 
-# 🌐 Socials:
+### 🌐 Socials:
+
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/agustin-vincenti-65aa54162/)
 
-# 💻 Tech Stack:
+### 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=c,py,js,git,bash,html,css,sass,gulp)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
