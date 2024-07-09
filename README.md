@@ -17,6 +17,4 @@ I'm an Engineer with a passion for coding :computer:
 ### 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,git,bash,py,mysql,js,html,css,sass,gulp)](https://skillicons.dev)
 
-# 📊 GitHub Stats:
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vincenag&theme=swift&hide_border=false&include_all_commits=false&count_private=true) | ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=vincenag&theme=swift&hide_border=false) |
-| --- | --- |
+
